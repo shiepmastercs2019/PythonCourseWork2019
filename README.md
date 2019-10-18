@@ -12,6 +12,11 @@ Python大作业交流展示
 
 * [我该去哪里](#whereCity)
 
+个人博客
+
+* [个人博客](hslovelal.top)
+
+
 ## 项目:我该去哪里(爬虫)
 <span id="whereCity"/>
 
