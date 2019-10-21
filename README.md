@@ -12,13 +12,14 @@ Python大作业交流展示
 
 * [我该去哪里](#whereCity)
 
-个人博客
 
-* [个人博客](http://hslovelal.top)
-
-爬虫
+目标检测
 
 * [自动驾驶路况检测系统](#autoDrive)
+
+个人博客
+
+* [Hs bolg](http://hslovelal.top)
 
 ## 项目:我该去哪里(爬虫)
 <span id="whereCity"/>
