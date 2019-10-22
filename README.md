@@ -19,7 +19,7 @@ Python大作业交流展示
 
 个人博客
 
-* [Hs bolg](http://hslovelal.top)
+* [Hs blog](http://hslovelal.top)
 
 ## 项目:我该去哪里(爬虫)
 <span id="whereCity"/>
