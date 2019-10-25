@@ -82,13 +82,13 @@ Python大作业交流展示
 
 * [去哪儿网国庆旅游景点数据爬虫分析](#scenicSpotSpider)
 
-* [短租数据分析](#shortRentSpider)
+* [短租数据大师](#shortRentSpider)
 
 * [12306点触验证码的识别登陆及自动抢票](#verificationCodeSpider)
 
 游戏设计
 
-* [飞机大战游戏](#airplaneGame)
+* [猫咪跑酷](#catParkourGame)
 
 * [植物大战僵尸改编版](#plantsV.S.ZombiesGame)
 
@@ -775,16 +775,19 @@ MySQL数据库写入
 
 ### Team&Members
 
-## 项目:飞机大战游戏
-<span id="autoDrive"/>
+## 项目:猫咪跑酷
+<span id="catParkourGame"/>
 
 ### Introduction
 
-功能：子弹选择：一次一个，一次两个
-  地方飞机：两种或者三种
-  难度：根据积分升高难度加大
-改进：增加大飞机的血槽显示
-主要用pycharm pygame
+1.主要工具：python和pycharm
+2.主要实现功能：
+(1)用户登录页面（数据库的链接）
+(2)键盘操控猫咪运动
+(3)关卡设计
+(4)结束时显示最高分和当前分数
+(5)跑酷时分数更新
+(6)有背景音乐及相应音效
 
 ### Feature&Technology
 
