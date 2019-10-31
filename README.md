@@ -166,6 +166,9 @@ Python程序设计
 
 ### Team&Members
 
+*	19018002	崔同学
+*	19018005	靳同学
+
 ## 项目:帅哥美女年龄、颜值打分系统
 <span id="girlBoyRank"/>
 
@@ -709,6 +712,9 @@ MySQL数据库写入
 
 ### Team&Members
 
+*	19108007	乔同学
+*	19108010	谢同学
+
 ## 项目:去哪儿网国庆旅游景点数据爬虫分析
 <span id="scenicSpotSpider"/>
 
@@ -735,6 +741,9 @@ MySQL数据库写入
 
 ### Team&Members
 
+*	19108008	夏同学
+*	19108006	林同学
+
 ## 项目:短租估价大师
 <span id="shortRentSpider"/>
 
@@ -756,6 +765,9 @@ MySQL数据库写入
 拟完成一个平台实现，用户输入自己的房源信息（初步只在北京），给出相应的房屋价格估计，并对房价提高的小技巧提供一些建议。
 ### Team&Members
 
+*	19108009	夏同学
+*	19108003	葛同学
+
 ## 项目:12306点触验证码的识别登陆及自动抢票
 <span id="verificationCodeSpider"/>
 
@@ -774,6 +786,10 @@ MySQL数据库写入
 5.选择人物，提交确认订单
 
 ### Team&Members
+
+*	19108018	张同学
+*	19108013	杨同学
+*	19108014	杨同学
 
 ## 项目:猫咪跑酷
 <span id="catParkourGame"/>
@@ -815,6 +831,8 @@ MySQL数据库写入
 ### Feature&Technology
 
 ### Team&Members
+
+*	19108012	邢同学
 
 ## 项目:我该去哪里(爬虫)
 <span id="whereCity"/>
